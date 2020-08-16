@@ -1,5 +1,6 @@
 # doviz-bilgileri
- Wordpress döviz bilgileri uygulamasının düzenltilmiş halidir kodlama tamamen Erdem ARSLAN'a aittir. 
+ *Wordpress döviz bilgileri uygulamasının düzenltilmiş halidir kodlama tamamen Erdem ARSLAN'a aittir. 
+ *Dolar,Altın,Euro bilgisi güncellenmiştir!
 
  ```html 
  public_html/wp-content/plugins
@@ -7,7 +8,7 @@
 
 Klasörüne kopyalayın 
 
-Bilgi ekleyip çıkarmak isterseniz
+## Bilgi ekleyip çıkarmak isterseniz
 
 ```php 
 class.doviz.php 
